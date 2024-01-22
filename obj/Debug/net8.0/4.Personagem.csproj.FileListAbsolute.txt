@@ -1,0 +1,14 @@
+C:\Users\POSITIVO\OneDrive\Documentos\Arquivos do C#\codigos\4.Personagem\bin\Debug\net8.0\4.Personagem.exe
+C:\Users\POSITIVO\OneDrive\Documentos\Arquivos do C#\codigos\4.Personagem\bin\Debug\net8.0\4.Personagem.deps.json
+C:\Users\POSITIVO\OneDrive\Documentos\Arquivos do C#\codigos\4.Personagem\bin\Debug\net8.0\4.Personagem.runtimeconfig.json
+C:\Users\POSITIVO\OneDrive\Documentos\Arquivos do C#\codigos\4.Personagem\bin\Debug\net8.0\4.Personagem.dll
+C:\Users\POSITIVO\OneDrive\Documentos\Arquivos do C#\codigos\4.Personagem\bin\Debug\net8.0\4.Personagem.pdb
+C:\Users\POSITIVO\OneDrive\Documentos\Arquivos do C#\codigos\4.Personagem\obj\Debug\net8.0\4.Personagem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\POSITIVO\OneDrive\Documentos\Arquivos do C#\codigos\4.Personagem\obj\Debug\net8.0\4.Personagem.AssemblyInfoInputs.cache
+C:\Users\POSITIVO\OneDrive\Documentos\Arquivos do C#\codigos\4.Personagem\obj\Debug\net8.0\4.Personagem.AssemblyInfo.cs
+C:\Users\POSITIVO\OneDrive\Documentos\Arquivos do C#\codigos\4.Personagem\obj\Debug\net8.0\4.Personagem.csproj.CoreCompileInputs.cache
+C:\Users\POSITIVO\OneDrive\Documentos\Arquivos do C#\codigos\4.Personagem\obj\Debug\net8.0\4.Personagem.dll
+C:\Users\POSITIVO\OneDrive\Documentos\Arquivos do C#\codigos\4.Personagem\obj\Debug\net8.0\refint\4.Personagem.dll
+C:\Users\POSITIVO\OneDrive\Documentos\Arquivos do C#\codigos\4.Personagem\obj\Debug\net8.0\4.Personagem.pdb
+C:\Users\POSITIVO\OneDrive\Documentos\Arquivos do C#\codigos\4.Personagem\obj\Debug\net8.0\4.Personagem.genruntimeconfig.cache
+C:\Users\POSITIVO\OneDrive\Documentos\Arquivos do C#\codigos\4.Personagem\obj\Debug\net8.0\ref\4.Personagem.dll
